@@ -1,3 +1,6 @@
 [submodule "ADV-Simulator"]
 	path = ADV-Simulator
 	url = https://github.com/pasyg/ADV-Simulator.git
+[submodule "DiscoDottler"]
+	path = DiscoDottler
+	url = https://github.com/pasyg/DiscoDottler.git
